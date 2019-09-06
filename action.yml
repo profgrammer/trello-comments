@@ -1,6 +1,6 @@
-name: 'Node 12 Template Action'
-description: 'Get started with Node actions'
-author: 'GitHub'
+name: 'Trello Cards'
+description: 'Adds a comment to a Trello card'
+author: 'profgrammer'
 inputs:
   myInput:
     description: 'Input to use'
